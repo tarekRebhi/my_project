@@ -3,7 +3,6 @@ i make a real progress , i wish i will drink git very well . tunisian figure of 
 
 second change 
 after adding a second branch
-<<<<<<< HEAD
 3Change2
 
 3Change2
@@ -13,10 +12,3 @@ after adding a second branch
 3Change2
 
 3Change2
-=======
-
-
-
-
->>>>>>> branch2
-
