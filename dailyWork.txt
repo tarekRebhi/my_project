@@ -1,0 +1,3 @@
+On va tester les commandes une par une 
+
+1ere Commande :git commit
