@@ -1,0 +1,13 @@
+On va tester les commandes une par une 
+
+1ere Commande :git commit
+
+Ligne qu'on supprimera avec git revert
+
+on fera un appel de toutes les commandes
+
+git clean Checked
+git reset
+git revert
+git blame
+git commit
