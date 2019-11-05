@@ -1,62 +1,212 @@
 *********interview Questions*************
 
-1-Quelles sont vos principales qualités:
+1-Quelles sont vos principales qualités ?
 Réponse:
-Je suis autonome ,sérieux je suis capable de m'adapter.
-j'ai l'esprit agile. je sais travailler en solo et ça m'a jamais géné 
-de travailler en équipe je suis quelqun qui aime bien s'autoformer vu 
-l'évolution des technologies.
-
-2-Quelles sont vos points faibles:
-Réponse:
-Comme point faible je dirai que je suis qu'elqun de perfectionniste
-par exemple quand j'essai d'apprendre quelque chose je veux savoir 
-tous les details et ça me prend enormement du temps. 
+Je suis Fiable:je porte à terme le travail qu'on me confie et 
+je ne déçoit jamais , je suis curieux : pour moi plus j'apprends
+des trucs plus j'aurai la possibilité de choisir quand je prend 
+une décision, je suis autonome :Au cours de ma carrière, je me 
+suis aperçu que me gérer seul en définissant de manière autonome 
+les temps et les objectifs partiels pour arriver au résultat 
+final, est un grand avantage.
 
 
-3-Êtes-vous capable de travailler sous pression?
+2-Quelles sont vos points faibles ?
 Réponse:
-Oui je suis capable , parfois quand les délais sont 
+Je suis une personne un peu sensible, mais je maîtrise de mieux
+en mieux mon émotivité Je ne suis peut-être pas assez démonstratif.
+Dans un groupe, j'écoute plus que je ne parle, on me trouve ainsi
+plutôt réservé.J'essaie de m'améliorer en participant à des
+discussions entre amis
+
+
+3-Êtes-vous capable de travailler sous pression ?
+Réponse:
+je suis capable , parfois quand les délais sont 
 courts la pression monte et je peut paraitre stressé
 mais au fond c'est un moteur pour continuer de me 
 dépasser et atteindre les objectifs fixés.
 
 
-4-Comment réagissez-vous face au stress:
+4-Comment réagissez-vous face au stress ?
+Réponse:
 Je suis une personne trés organisée,ce qui contribue à diminuer beaucoup mon 
 niveau de stress.J'ai le sens des priorités,alors face aux urgences je peux 
 facilement réorganiser mon horaire en fonction des besoins du moment,s'il le faut
 je reste plus tard le soir pour terminer.
 
-5-Quel rapport avez-vous avec l'autorité:
-je suis quelqu'un qui respecte l'autorité si elle est juste envers moi.  
 
-6-Êtes-vous quelqu'un d'autonome:
+5-Quel rapport avez-vous avec l'autorité ?
+Réponse:
+je suis quelqu'un qui respecte l'autorité si elle est juste envers moi
 
 
-7-Êtes-vous quelqu'un de ponctuel:
+6-Êtes-vous quelqu'un d'autonome ?
+Réponse:
+je suis autonome : Au cours de ma carrière, je me 
+suis aperçu que me gérer seul en définissant de manière autonome 
+les temps et les objectifs partiels pour arriver au résultat 
+final, est un grand avantage.
+
+
+7-Êtes-vous quelqu'un de ponctuel ?
+Réponse:
 Oui je le suis , parfois comme tous le monde ça peut m'arriver de ne pas être à l'heure
 mais quand ça arrive c'est un souci d'ordre général et j'informe mon supérieur
 que j'arrive en retard.
 
-8-Quels sont vos activités extra professionnelles:
-j'aime sortir avec les amis , jouer du football , des jeux vidéos..
 
-9-Pourquoi venir chez nous:
+8-Quels sont vos activités extra professionnelles ?
+Réponse:
+j'aime sortir avec les amis , jouer des matches de football , des jeux vidéos..
+si non je suis un passioné de cinéma un bon film avec du pop corn .
 
-10-Qu'est-ce qui vous motive pour ce poste:
 
-11-Si vous êtes pris chez nous que faites-vous
+9-Pourquoi venir chez nous ?
+Réponse:
+car je connais votre entreprise et je pense pouvoir prendre plaisir à y travailler. 
 
-12-pourquoi vous plûtot qu'un autre
+10-Qu'est-ce qui vous motive pour ce poste ?
+Réponse:
+Tout d'abord le poste proposé me convient dans ma vision de mon plan de carriére
+joindre votre société est une motivation de plus , intégrer votre équipe me 
+permettra d'apprendre et de monter en compétence. 
+
+11-Si vous êtes pris chez nous que faites-vous ?
+Réponse:
+
+
+12-pourquoi vous plûtot qu'un autre ?
+Réponse:
 Sans doute d'autre sont peut-être mailleurs que moi,je ne suis évidement pas le seul à savoir
 faire,et l'expérience que je posséde ne fait de moi le saul capable de relever un tel défi.
 Cependant je dirai volontier que je serai un atout pour vous.
 
 
-13-Êtes-vous mobile
+13-Êtes-vous mobile ?
+Réponse:
+Je suis Quelqu'un qui aime la stabilité , mais je reste à la disposition de l'entreprise si
+une mission nécessite le déplacement se présente.
 
-14-
+14-Que vous ont apporté vos précedents emplois ?
+Réponse:
+
+
+15-Avez-vous exercé des responsabilités d'encadrement ?
+Réponse:
+
+
+16-Si j'appelle votre ancien employeur que me dira t-il de vous ? vous recommendera t-il ?
+Réponse:
+Il vous dira que je suis quelqu'un de fiable , de sérieux et que evidémment vous  pouvez comptez sur moi.
+
+
+17-Pourriez vous me décrire une situation difficile dont vous vous êtes finalement bien sorti ?
+Réponse:
+
+
+18-Au cours de votre derniére expérience de quoi vous êtes le plus fier ?
+Réponse:
+le 
+
+19-Pouvez-vous me décrire votre journée type dans votre ancien emploi ?
+Réponse:
+
+
+20-Qu'allez-vous nous apporter ?
+Réponse:
+
+
+21-Comment voyez-vous le travail en équipe ?
+Réponse:
+
+
+22-Quelle est votre plus grande réussite ?
+Réponse:
+
+
+23-Au regard de la mission proposée,quels sont les domaines que vous pensez maitriser ?
+Réponse:
+J'ai de bonnes connaissances dans toute la framework dotnet dont je maitrise
+le c# - asp mvc  , je maitrise aussi le sql.
+
+
+24-Que savez-vous de notre entreprise ?
+Réponse:
+ça dépond de l'entreprise...
+
+
+25-Quelle est votre vision de notre societé ?
+Réponse:
+ça dépond de l'entreprise...
+
+
+26-Qui sont nos concurrents ?
+Réponse:
+ça dépond de l'entreprise...
+
+
+27-Quel poste aimeriez-vous occuper dans 5 ans ? dans 10ans ?
+Réponse:
+je veux évoluer vers un poste de management , gérer une unité de production
+un service ou un site , je veux aussi evoluer et ajouter une nouvelle compétence.
+
+
+28-Combien de temps souhaiteriez rester à ce poste ?
+Réponse:
+Aussi longtemps qu'on sent que je j'apporte une contribution considérable
+à l'entreprise , que je réalise que je m'épanoui.
+
+
+29-Pourquoi vous avez quitté votre dernier poste ?
+Réponse:
+J'avais la sensation que je stagnais donc j'ai décidé de quitter et de faire de
+nouvelles choses et de me lancer de nouveaux défis. 
+
+
+30-Vous n'avez aucune expérience à ce type de poste,comment comptez-vous faire pour vous adapter ?
+Réponse:
+
+
+31-Que pensez-vous de notre équipe ?
+Réponse:
+
+
+32-Pourquoi souhaitez-vous travailler avec notre équipe ?
+Réponse:
+
+
+33-Qu'est ce qui selon vous va vous posez des difficultés à ce poste ?
+Réponse:
+
+
+34-Qu'est ce que vous allez réaliser facilement ?
+Réponse:
+
+
+35-Si vous avez un conflit avec une personne de votre équipe comment vous vous comportez ?
+Réponse:
+En cas de conflit j'essaie de trouver la source du probléme et je cherche une solution pour 
+le résoudre parceque j'aime éviter de perdre de l'enérgie émotionelle  et du temps irrécupérable
+avec mon collégue.
+
+36-Si vous êtes bloqué sur un point et vous ne pouvez pas avancer vous faites comment ?
+Réponse:
+
+
+37-Quel rôle souhaitez-vous occuper dans une équipe projet ?
+Réponse:
+
+
+38-Qu'est ce que vous aimez faire ?
+Réponse:
+j'aime travailler en prendre du plaisir avec une équipe et une ambiance interactive , je
+suis de plus en plus productif avec ce type  d'environnement.
+
+39-Qu'est ce que vous n'aimez pas faire ?
+Réponse:
+Travaillez avec des collégues non digne de confiance , non respectueux.
+
 
 
 
