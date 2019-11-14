@@ -9,5 +9,18 @@ important links
 1-Parler en public sans stress
  https://www.youtube.com/watch?v=z4WLBbui2EE
 
+<<<<<<< HEAD
 2-Le taux d'intérêt - Economie
 https://www.youtube.com/watch?v=z9Ivoj2PcRM
+=======
+Change4
+
+Change3
+
+Change3
+
+Change3
+
+Change3
+
+>>>>>>> parent of c600723... Revert "a new branch in town"
