@@ -1,0 +1,31 @@
+
+
+
+Ingénieur Etude et Developpement Dotnet
+5 ans d'expérience	 
+NIVEAUX D’INTERVENTIONS
+•	Conception et développement de solutions Web pour tous le groupe.
+•	Analyse des spécifications fonctionnelles et techniques
+•	Implémentation de nouvelles fonctionnalités et corrections de bugs
+•	Mise en œuvre de scénarios de tests
+•	Participation aux différentes activités durant tout le cycle de vie de ces applications, notamment les activités de conception, de codage, de test et de déploiement.
+
+
+EXPERIENCES PROFESSIONNELLES
+ETAI – Infopro Digital                                                                 depuis le 02/2017
+IPD est une entreprise d'information et de services pour les professionnels français . Son activité s'organise en trois catégories : Logiciels, bases de données et plateformes de leads ; Salons professionnels ; Marques médias et networking.
+
+Poste : Ingénieur étude et developpement Dotnet. 
+Clients: //*************LSA, Expo , Norwegian Air, Sun Express.
+Contexte du projet : Offrir aux partenaires qui offrent des services d’assurance à leurs clientèles (B2B2C) et aux Filiales (B2C), une plateforme générique sous forme d’une API nommée « Plug and Sell » : interopérable avec leurs sites de vente, facile à intégrer et capable de gérer les spécificités de frais d’assurance de chaque partenaire sans intervention supplémentaire.
+Mon périmètre d’intervention couvrait une plateforme Full Stack constituée d’une vingtaine d’applications (déjà mises en prod). J’étais chargé de développement de nouvelles fonctionnalités en assurant une haute disponibilité pour gérer les demandes d’interventions techniques (correction de bugs, optimisation de performances, qualification de problèmes remontés …).
+
+Méthodologie : Scrum
+Equipe : 2 personnes
+
+Tâches :
+
+•	Etude du besoin 
+•	
+Environnement technique :  C#, Javascript, JQuery, IIS, Entity Farmework, Sql Server.
+Serveur d’application :  Microsoft ASP.NET
