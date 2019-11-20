@@ -2,8 +2,6 @@ first change
 i make a real progress , i wish i will drink git very well . tunisian figure of speech.
 
 second change 
-after adding a second branch
-2Change2
 
 2Change2
 
@@ -12,6 +10,9 @@ after adding a second branch
 2Change2
 
 2Change2
+
+2Change2
+
 
 
 
