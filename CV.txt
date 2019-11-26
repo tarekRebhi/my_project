@@ -25,9 +25,12 @@ Equipe : 4 personnes
 
 Tâches :
 
-•	Etude et analyse du besoin
-•	Conception des modules du projet	
-•	Développement des différents modules
+•	Model first Database et migrations EntityFramework
+•	Developpement des modules de l'interface admin
+•	Gestion des roles avec AspIdentity
+•	Integration du plugin FullCalendar
+•	Authentification avec active directory et Asp Identity
+•	Calculs Indicateurs et Affichage avec bibliotheque ZingChart
  
 Environnement technique :  C#, Javascript, JQuery, IIS, Sql Server.
 Serveur d’application :  Microsoft ASP.NET
