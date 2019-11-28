@@ -25,8 +25,8 @@ Equipe : 4 personnes
 
 Tâches :
 
-•	Model first Database et migrations EntityFramework
-•	Developpement des modules de l'interface admin
+•	testing code with Nunit framework.
+•	Developpement des modules de l'interface admin.
 •	Gestion des roles avec AspIdentity
 •	Integration du plugin FullCalendar
 •	Authentification avec active directory et Asp Identity
