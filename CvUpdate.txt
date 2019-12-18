@@ -1,0 +1,68 @@
+Mission : 
+Analyser et développer les composant en utilisant le framework .Net
+-Assurer le développement et la réalisation de modules.
+-harmoniser et indistrualiser l'ensemble des composants et applications.
+-Documenter les applications pour les développement ultérieurs et la mise en production.
+développer les nouveaux outils métiers selon  le TDD.
+
+
+Historisation
+.Etude de l'existant et du besoin.
+.Elaboration des spécification techniques et fonctionnels.
+.Conception et création des diagrammes uml (uses case , classes , séquences , activité).  
+.Vérification des identifiants lors de l'authentification avec l'outil AD et redirection vers un espace membre en fonction du service 
+du membre récupéré sur AD.
+.Sur la page d'acceuil Calcul et affichage de satistiques  du temps de présence et de production net, du durée de traitement par opération 
+ainsi que d'autre indicateurs : l'affichage est à la fois numérique et graphique (Chart js).  
+.Développement du module historisation dédié à l'enregistrement de la production en offrant à l'utilisateur un menu intéractif contenant
+tous les tâches possibles dans la production . les données saisies seront enregistrées dans la base et seront affichés en temps réel.
+.Développement du module Présence qui permet de savoir l'état de l'utilisateur dans un instant t .
+.Pour l'habillage de la solution intégration d'une template developpée en bootstrap.
+.Maintenance évolutive et correction des bugs.
+.Pratique d'ingénierie logicielle moderne (TDD , Scrum , Test du code avec MsTest).
+.Déploiement sur serveur IIS.
+-----------------------------------------------
+Etude  de besoins
+Réaliser la conception et les développement
+test du code avec mstest framework
+rédaction de la documentation
+Participer à la maintenance corrective et évolutive des application
+Déploiement.
+
+
+Records :
+Analyser et développer les composant en utilisant le framework .Net
+-Assurer le développement et la réalisation des applications.
+-harmoniser et indistrualiser l'ensemble des composants et applications.
+-Documenter les applications pour les développement ultérieurs et la mise en production.
+développer les nouveaux outils métiers selon  le TDD.
+
+.Etude de l'existant
+.Participation à l'élaboration des spécification techniques
+.Réalisation de 3 services applicatifs différés pour l'extraction des données de production des différents apporteurs d'affaire et
+le le calcul de statistiques de production à injecter dans l'outil de suivi et de pilotage des forces d'animation.
+.Réalisation d'un module de gestion des échéances des assurances délégués, et gestion des impacts de ce module sur l'outil de
+regroupement de crédits,l'outil de crédits immobiliers ainsi que l'édition des documents.
+.Maintenance évolutive et correction des bugs.
+.Pratique d'ingénierie logicielle moderne (méthodologie de développement , integration continue , mise en place de tests à faire).
+.Déploiement des solutions techniques
+.participation dans stand up meeting chaque jour.
+
+
+Infoprod :
+Analyser et développer les composant en utilisant le framework .Net
+-Assurer le développement et la réalisation des applications.
+-harmoniser et indistrualiser l'ensemble des composants et applications.
+-Documenter les applications pour les développement ultérieurs et la mise en production.
+développer les nouveaux outils métiers selon  le TDD.
+
+.Etude de l'existant
+.Participation à l'élaboration des spécification techniques
+.Réalisation de 3 services applicatifs différés pour l'extraction des données de production des différents apporteurs d'affaire et
+le le calcul de statistiques de production à injecter dans l'outil de suivi et de pilotage des forces d'animation.
+.Réalisation d'un module de gestion des échéances des assurances délégués, et gestion des impacts de ce module sur l'outil de
+regroupement de crédits,l'outil de crédits immobiliers ainsi que l'édition des documents.
+.Maintenance évolutive et correction des bugs.
+.Pratique d'ingénierie logicielle moderne (méthodologie de développement , integration continue , mise en place de tests à faire).
+.Déploiement des solutions techniques
+.participation dans stand up meeting chaque jour.
